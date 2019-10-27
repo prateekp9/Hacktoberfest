@@ -1,4 +1,4 @@
-# __Hacktoberfest__
+<p style="text-align:center">Hacktoberfest</p>
 <p align="center">
  <img src="http://AllenCompSci.github.io/Hacktoberfest/static/img/site/GreyBlue.png">
 </p>
